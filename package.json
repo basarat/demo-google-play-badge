@@ -1,0 +1,13 @@
+{
+  "name": "demo-store-badges",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve public -n"
+  },
+  "keywords": [],
+  "author": "bas@basarat.com",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "14.2.0"
+  }
+}
